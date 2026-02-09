@@ -49,7 +49,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>666D Game: Easy Sign Up & Login Guide for Beginners</title>
     <meta name="description" content="New to 666D? Our simple guide shows you how to register and log in to start playing. Get your step-by-step instructions here.">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="<?php echo CANONICAL_URL; ?>">
+    <link rel="canonical" href="https://game-666d-registration-login-2c689ac2019a.herokuapp.com/">
     
     <!-- Open Graph Tags -->
     <meta property="og:title" content="666D Game Registration and Login Process: Step-by-Step Beginner Guide">
